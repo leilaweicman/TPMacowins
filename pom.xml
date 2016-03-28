@@ -20,7 +20,7 @@
   
   <packaging>jar</packaging>
 
-  <name>macowinstest</name>
+  <name>tpmacowins</name>
   <url>http://maven.apache.org</url>
 
   <properties>
