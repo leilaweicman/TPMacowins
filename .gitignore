@@ -1,7 +1,7 @@
-/MacoWins/.settings/*
-/MacoWins/target
-/MacoWins/.project
-/MacoWins/.classpath
+/tpmacowins/.settings/*
+/tpmacowins/target
+/tpmacowins/.project
+/tpmacowins/.classpath
 .metadata/.lock
 .metadata/.mylyn/.taskListIndex/segments.gen
 .metadata/.mylyn/.taskListIndex/segments_1
@@ -10,10 +10,10 @@
 .metadata/.mylyn/tasks.xml.zip
 .metadata/.plugins/org.eclipse.core.resources/.history/71/d0bc3bb929c40013171a9ea420609575
 .metadata/.plugins/org.eclipse.core.resources/.history/74/b05d128089c300131346b21bc722b97e
-.metadata/.plugins/org.eclipse.core.resources/.projects/MacoWins/.indexes/af/history.index
-.metadata/.plugins/org.eclipse.core.resources/.projects/MacoWins/.indexes/properties.index
-.metadata/.plugins/org.eclipse.core.resources/.projects/MacoWins/.markers
-.metadata/.plugins/org.eclipse.core.resources/.projects/MacoWins/org.eclipse.egit.core/GitProjectData.properties
+.metadata/.plugins/org.eclipse.core.resources/.projects/tpmacowins/.indexes/af/history.index
+.metadata/.plugins/org.eclipse.core.resources/.projects/tpmacowins/.indexes/properties.index
+.metadata/.plugins/org.eclipse.core.resources/.projects/tpmacowins/.markers
+.metadata/.plugins/org.eclipse.core.resources/.projects/tpmacowins/org.eclipse.egit.core/GitProjectData.properties
 .metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.indexes/properties.index
 .metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/org.eclipse.egit.core/GitProjectData.properties
 .metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version
@@ -50,8 +50,8 @@
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs
 .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs
-.metadata/.plugins/org.eclipse.debug.core/.launches/MacoWins (1).launch
-.metadata/.plugins/org.eclipse.debug.core/.launches/MacoWins.launch
+.metadata/.plugins/org.eclipse.debug.core/.launches/tpmacowins (1).launch
+.metadata/.plugins/org.eclipse.debug.core/.launches/tpmacowins.launch
 .metadata/.plugins/org.eclipse.debug.core/.launches/New_configuration (1).launch
 .metadata/.plugins/org.eclipse.debug.core/.launches/New_configuration.launch
 .metadata/.plugins/org.eclipse.debug.core/.launches/Test.launch
@@ -97,7 +97,7 @@
 .metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2014/4/16/refactorings.index
 .metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml
 .metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml
-.metadata/.plugins/org.eclipse.m2e.core/MacoWins.lifecyclemapping
+.metadata/.plugins/org.eclipse.m2e.core/tpmacowins.lifecyclemapping
 .metadata/.plugins/org.eclipse.m2e.core/nexus/025f5b3511d07ae8a9d4a8bbbc009797/_1e.cfs
 .metadata/.plugins/org.eclipse.m2e.core/nexus/025f5b3511d07ae8a9d4a8bbbc009797/_1e_1.del
 .metadata/.plugins/org.eclipse.m2e.core/nexus/025f5b3511d07ae8a9d4a8bbbc009797/_1f.cfs
@@ -142,7 +142,7 @@
 .metadata/.plugins/org.eclipse.m2e.core/nexus/9cc00c7cf1c1b5e49f50391f534b5cd1/write.lock
 .metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser
 .metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties
-.metadata/.plugins/org.eclipse.m2e.jdt/MacoWins.container
+.metadata/.plugins/org.eclipse.m2e.jdt/tpmacowins.container
 .metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.4.0.20130601-0317.xml
 .metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.4.1.20140328-1905.xml
 .metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark
@@ -168,5 +168,5 @@
 .metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml
 .metadata/version.ini
 RemoteSystemsTempFiles/.project
-.metadata/.plugins/org.eclipse.core.resources/.projects/MacoWins/org.eclipse.jdt.core/state.dat
+.metadata/.plugins/org.eclipse.core.resources/.projects/tpmacowins/org.eclipse.jdt.core/state.dat
 .metadata/.plugins/org.eclipse.core.resources/.root/14.tree
